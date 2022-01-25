@@ -22,7 +22,7 @@ setuptools.setup(
         'numpy==1.18.1',
         'networkx>=2.4',
         'tqdm>=4.41.1',
-        'numba==0.47.0',
+        'numba>=0.47.0',
         'scipy>=1.4.1',
         'twisted>=20.3.0',
         'requests>=2.22.0',
